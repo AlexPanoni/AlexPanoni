@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**AlexPanoni/AlexPanoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Alex Panoni**, an Economist (B.A. and M.A.) transitioning into **Data Analysis and Data Science**.  
+I have almost 10 years of professional experience working remotely and also a strong background in **Social Media analysis and management**.  
 
-Here are some ideas to get you started:
+Currently, I’m building my skills and portfolio in data analytics and data science.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills & Tools
+
+- **Programming & Data**: Python (pandas, NumPy, Scikit-learn, matplotlib, seaborn)  
+- **Databases**: SQL  
+- **Business Intelligence**: Power BI, Tableau  
+- **Notebooks**: Jupyter Notebooks  
+- **Other**: Data visualization, reporting, exploratory data analysis  
+
+---
+
+## 📂 What you’ll find here
+
+- Small practice projects in Python (games, utilities)  
+- Data Analysis projects with real-world datasets (coming soon 🚀)  
+- Experiments and learning notebooks  
+
+---
+
+## 🌱 Current focus
+
+- Growing my portfolio with data projects  
+- Strengthening skills in BI and statistical analysis  
+- Preparing for **mid-level Data Analyst** and **entry-level Data Scientist** roles  
+
+---
+
+## 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/alexpf/) 
+- [Email](mailto:alexpanonif)   
