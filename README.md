@@ -20,7 +20,7 @@ Currently, I’m building my skills and portfolio in data analytics and data sci
 ## 📂 What you’ll find here
 
 - Small practice projects in Python (games, utilities)  
-- Data Analysis projects with real-world datasets (coming soon 🚀)  
+- Data Analysis projects with real-world datasets 
 - Experiments and learning notebooks  
 
 ---
