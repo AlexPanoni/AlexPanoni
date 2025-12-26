@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m **Alex Panoni**, an Economist (B.A. and M.A.) transitioning into **Data Analysis and Data Science**.  
+I’m **Alex Panoni**, an Economist (B.A. and M.A.) transitioning fully into **Data Analysis and Data Science** focused roles.  
 I have almost 10 years of professional experience working remotely and also a strong background in **Social Media analysis and management**.  
 
 Currently, I’m building my skills and portfolio in data analytics and data science.  
