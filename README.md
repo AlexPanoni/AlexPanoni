@@ -1,38 +1,30 @@
 # Hi there 👋
 
-I’m **Alex Panoni**, an Economist (B.A. and M.A.) transitioning fully into **Data Analysis and Data Science** focused roles.  
-I have almost 10 years of professional experience working remotely and also a strong background in **Social Media analysis and management**.  
-
-Currently, I’m building my skills and portfolio in data analytics and data science.  
-
----
+I'm **Alex Panoni**, an Economist (B.A. and M.A. from USP and UFSC) and Data Analyst with nearly 10 years of remote work experience. I specialize in data warehouse development, ETL pipelines, and building analytics solutions that support business decision-making.
 
 ## 🔧 Skills & Tools
 
-- **Programming & Data**: Python (pandas, NumPy, Scikit-learn, matplotlib, seaborn)  
-- **Databases**: SQL  
-- **Business Intelligence**: Power BI, Tableau  
-- **Notebooks**: Jupyter Notebooks  
-- **Other**: Data visualization, reporting, exploratory data analysis  
+**Data & Analytics:**
+- **SQL** (MySQL, SQL Server) - ETL, data modeling, dimensional design
+- **Python** (pandas, NumPy, matplotlib, seaborn) - data cleaning, transformation, analysis
+- **Power BI & Tableau** - interactive dashboards and KPI tracking
+- **Excel** (PowerQuery, pivot tables, advanced formulas)
 
----
+**Data Architecture:**
+- Data Warehouse design (star schema, dimensional modeling)
+- ETL pipelines and data integration workflows
+- Data quality validation and integrity management
+- Exploring: Palantir Foundry
 
-## 📂 What you’ll find here
+## 📂 Featured Projects
 
-- Small practice projects in Python (games, utilities)  
-- Data Analysis projects with real-world datasets 
-- Experiments and learning notebooks  
+**Data Warehouse (SQL Server)**  
+End-to-end data warehouse with Medallion Architecture, ETL pipelines, star-schema modeling, and Tableau dashboard
 
----
+**E-commerce Analysis (Python)**  
+Comprehensive exploratory analysis on Olist marketplace dataset with Power BI dashboard and actionable insights
 
-## 🌱 Current focus
+## 📫 Connect
 
-- Growing my portfolio with data projects  
-- Strengthening skills in BI and statistical analysis  
-- Preparing for **mid-level Data Analyst** and **entry-level Data Scientist** roles  
-
----
-
-## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/alexpf/) 
-- [Email](mailto:alexpanonif)   
+- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/alexpf/))
+- [Email](mailto:alexpfurtado@gmail.com)
